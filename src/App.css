@@ -1,5 +1,17 @@
+@font-face {
+  font-family: 'Space2Font'; /*a name to be used later*/
+  src: url('./styles/SpaceCrusadersItalic-ZV1Zx.ttf'); /*URL to font*/
+}
+
+h1{
+  font-family: Space2Font;
+  font-size: 80px;;
+}
+
 .App {
   text-align: center;
+  /* background-image: url('./styles/the_martian_2.png'); */
+
 }
 
 .App-logo {
